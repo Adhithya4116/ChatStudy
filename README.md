@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+## NAME: ADHITHYA PERUMAL D
 
+## REG.NO: 212222230007
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
